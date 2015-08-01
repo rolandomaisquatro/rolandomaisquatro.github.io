@@ -20,7 +20,7 @@ related_links:
  - text: Evil Hat
    link: https://www.evilhat.com
  - text: Site do Fate Core em Inglês
-   link: https://www.faterpg.com
+   link: http://www.faterpg.com
  - text: Facebook da Solar Editora
    link: https://www.facebook.com/solarentretenimento
  - text: Espírito do Século (apenas em PDF, fora de catálogo Físico)
