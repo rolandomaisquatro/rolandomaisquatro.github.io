@@ -17,6 +17,8 @@ hosts:
  - Alex Resende
  - Fábio Emilio Costa
 related_links:
+ - text: Site da Solar Editora para comprar os PDFs do Fate Core
+   link: http://solar-entretenimento.pswebstore.com/
  - text: Evil Hat
    link: https://www.evilhat.com
  - text: Site do Fate Core em Inglês
