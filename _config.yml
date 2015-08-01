@@ -39,7 +39,7 @@ urlimg: "https://hufflepuffbr.github.io/rolando-mais-quatro"
 
 
 # Logo size is 600x80 pixels
-# logo: "logo.png"
+logo: "logo.png"
 
 
 # Paginates all X entries
