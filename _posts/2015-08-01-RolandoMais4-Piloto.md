@@ -65,6 +65,7 @@ events:
     text: O que vem aí no _Rolando +4_
   - time: "36:56"
     text: Considerações Finais e Encerramento
+date: 2015-08-01 20:10:00 -0300
 ---
 
 E chegou!
