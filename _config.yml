@@ -8,6 +8,7 @@
 #                                                 /____/        
 #
 # Title of your website
+meta_title: "Rolando +4"
 title: "Rolando +4"
 name: "Rolando +4"
 
@@ -16,12 +17,12 @@ slogan: "O podcast dos Carrascos dos Mestres"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Uma página onde coloco tudo quanto é coisa que me dá na telha!"
+description: "O Podcast dos Carrascos os Mestres, onde ensinamos a Maximizar, Combar, Apelar, torturar o mestre e no processo criar um Personagem Épico, com uma História Épica para seu Mestre aproveitar em Aventuras Épicas"
 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://hufflepuffbr.github.io"
+url: "https://hufflepuffbr.github.io/rolando-mais-quatro"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,11 +35,11 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "https://hufflepuffbr.github.io/images/"
+urlimg: "https://hufflepuffbr.github.io/rolando-mais-quatro"
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+# logo: "logo.png"
 
 
 # Paginates all X entries
@@ -120,7 +121,7 @@ defaults:
 
 #google_author:             "https://plus.google.com/u/0/118311555303973066167"
 #google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
-bing_webmastertools_id:    "9ED4489ED0730DBC8EE3EBDE10D4F8B9"
+#bing_webmastertools_id:    "9ED4489ED0730DBC8EE3EBDE10D4F8B9"
 # alexa_verify_id:         ""
 
 
@@ -180,8 +181,8 @@ msapplication_tilecolor:                "#fabb00"
 #
 # used in _includes/comments.html
 
-disqus_shortname: hufflepuffbr
-podcast_disqus_shortname: fatemasters
+disqus_shortname: rolandomais4
+podcast_disqus_shortname: rolandomais4
 
 
 

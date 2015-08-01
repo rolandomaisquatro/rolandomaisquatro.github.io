@@ -28,7 +28,7 @@
                   {% endif %}
   
                   {% if site.data.podcast %}
-                  <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do Fate Masters</a>
+                  <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do {{site.data.podcast.name}}</a>
                   {% endif %}
                   {% for link in site.data.podcast.podcast_links %}
                   <li>
@@ -36,5 +36,5 @@
                   </li>
             {% endfor %}
                   <li>
-                  <a href="{{ site.url }}{{ post.url }}">Comente esse <em>post</em> no site do Fate Masters!</a>
+                  <a href="{{ site.url }}{{ post.url }}">Comente esse <em>post</em> no site do {{site.data.podcast.name}}!</a>
                   </li>
