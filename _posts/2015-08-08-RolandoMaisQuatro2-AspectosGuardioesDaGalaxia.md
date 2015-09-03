@@ -12,7 +12,6 @@ tags:
  - Fate-Core
  - Aspectos
  - Guardiões da Galáxia
- - Podcast
  - Rolando-Mais-Quatro
 header: no
 ---
