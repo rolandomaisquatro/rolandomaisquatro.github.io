@@ -3,7 +3,7 @@ title: Rolando +4 -  Episódio 4 - Façanhas, Extras, Recarga e Pontos de Destin
 subheadline: Gerando Efeitos Especiais em Fate!
 teaser: O Podcast dos Carrascos do Mestres
 layout: post
-date: 2015-09-03 20:10:00 -0300
+date: 2015-09-03 09:15:00 -0300
 categories:
   - Rolando-Mais-Quatro
 tags:
@@ -26,9 +26,9 @@ related_links:
  - text: _Nest_
    link: http://www.drivethrurpg.com/product/153980/Nest--A-World-of-Adventure-for-Fate-Core
 audios:
- - OGG: /a
- - MP3: /a
-iaplayer: a
+ - OGG: https://archive.org/download/Rolando4Ep4/tmp_3845-Rolando%2b4Ep4-2028009464.ogg
+ - MP3: https://archive.org/download/Rolando4Ep4/tmp_3845-Rolando%2b4Ep4-2028009464.mp3
+iaplayer: Rolando4Ep4
 comments: true
 events:
   - time: "00:07"
