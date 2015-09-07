@@ -3,7 +3,7 @@ title: Rolando +4 -  Episódio 5 - Exemplo de Criação de Personagens usando La
 subheadline: Gerando Efeitos Especiais em Fate!
 teaser: O Podcast dos Carrascos do Mestres
 layout: post
-date: 2015-09-07 18:00:00 -0300
+date: 2015-09-07 17:00:00 -0300
 categories:
   - Rolando-Mais-Quatro
 tags:
