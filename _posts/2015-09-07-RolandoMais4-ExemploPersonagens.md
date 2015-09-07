@@ -19,8 +19,6 @@ hosts:
  - Fábio Emilio Costa
  - Jean da Silva
 related_links:
- - text: _Masters of Umdaar_
-   link: http://www.drivethrurpg.com/product/155458/Masters-of-Umdaar--A-World-of-Adventure-for-Fate-Core
  - text: Fichas dos Personagens criados - Originais
    link: https://archive.org/download/Rolando4Ep5/FichasLaVaporeta-orig.pdf
  - text: Fichas dos Personagens criados - Finais
@@ -29,6 +27,8 @@ related_links:
    link: /rolando-mais-quatro/exemplos/CriacaoPersonagensLaVaporeta/
  - text: _La Vaporeta_
    link: https://docs.google.com/document/d/102fgUuMCQZEPr1ZmSZS20CnV6x75Ors6WkAYdGWnUbg/edit?usp=sharing
+ - text: _Masters of Umdaar_
+   link: http://www.drivethrurpg.com/product/155458/Masters-of-Umdaar--A-World-of-Adventure-for-Fate-Core
 audios:
  - OGG: https://archive.org/download/Rolando4Ep5/Rolando%2b4Ep5.ogg
  - MP3: https://archive.org/download/Rolando4Ep5/Rolando%2b4Ep5.mp3
