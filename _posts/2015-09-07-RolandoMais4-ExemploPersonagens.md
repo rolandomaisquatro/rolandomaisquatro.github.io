@@ -30,8 +30,8 @@ related_links:
  - text: _La Vaporeta_
    link: https://docs.google.com/document/d/102fgUuMCQZEPr1ZmSZS20CnV6x75Ors6WkAYdGWnUbg/edit?usp=sharing
 audios:
- - OGG: a
- - MP3: a
+ - OGG: https://archive.org/download/Rolando4Ep5/Rolando%2b4Ep5.ogg
+ - MP3: https://archive.org/download/Rolando4Ep5/Rolando%2b4Ep5.mp3
 iaplayer: Rolando4Ep5
 comments: true
 events:
