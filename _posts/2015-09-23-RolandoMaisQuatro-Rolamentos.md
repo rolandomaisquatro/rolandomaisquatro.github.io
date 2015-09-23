@@ -3,7 +3,7 @@ title: Rolando +4 -  Episódio 6 - Introdução às Regras do Fate - Rolamentos,
 subheadline: Gerando Efeitos Especiais em Fate!
 teaser: O Podcast dos Carrascos do Mestres
 layout: post
-date: 2015-09-07 17:00:00 -0300
+date: 2015-09-23 20:20:00 -0300
 categories:
   - Rolando-Mais-Quatro
 tags:
@@ -22,8 +22,14 @@ hosts:
  - Fábio Emilio Costa
  - Jean da Silva
 related_links:
- - text: Fichas dos Personagens de Vaporeta (Hendrika, Rosa e Alfonso)
+ - text: Fichas dos Personagens de La Vaporeta (Hendrika, Rosa e Alfonso)
    link: https://archive.org/download/Rolando4Ep5/FichasLaVaporeta-final.pdf
+ - text: Alternativas ao Fate Dice (no FATE SRD)
+   link: http://fate-srd.com/fate-system-toolkit/other-dice
+ - text: Alternativas ao Fate Dice (Wiki da Evil Hat)
+   link: http://evilhat.wikidot.com/alternate-dice-rules
+ - text: Criando seus próprios Fate Dice usando caneta marca CD e d6s do Banco Imobiliário (do Fudge Factor, via Internet Archive)
+   link: http://web.archive.org/web/20020203165015/http://www.fudgefactor.org/2001/12/01/babys_first_fudge_dice.html
  - text: Simple Fudge Dice (Rolador de Dados para Android)
    link: https://play.google.com/store/apps/details?id=com.avbeeri.fatedice
  - text: Fate Dice (Rolador de Dados para Android)
@@ -45,9 +51,9 @@ related_links:
  - text: Dicenomicon (Rolador de Dados para iOS)
    link: https://itunes.apple.com/br/app/pip/id298751953?mt=8
 audios:
- - OGG: a
- - MP3: a
-iaplayer: a
+ - OGG: https://archive.org/download/Rolando4Ep6/Rolando%2b4-Ep6.ogg
+ - MP3: https://archive.org/download/Rolando4Ep6/Rolando%2b4-Ep6.mp3
+iaplayer: Rolando4Ep6
 comments: true
 events:
   - time: "00:07"
@@ -131,3 +137,8 @@ _4dF_ (Dados Fate/Fudge):
   o valor o nível do  rolamento. **Exemplos (_p_ indica dado positivo,
   _n_ indica dado negativo):** _p1, p2, n2, n4_: +1; _p2, p4, n1, n1_:
   -1; _p5, p2, n4, n2_: +0;
+
+E segue abaixo o mecanismo para transformar d6s convencionais (com pontinhos, estilo _Banco Imobiliário_) em Fate Dice.
+
+![mecanismo para transformar d6s convencionais (com pontinhos, estilo Banco Imobiliário) em Fate Dice](http://web.archive.org/web/20020203165015/http://www.fudgefactor.org/2001/12/01/images/babys_first_fudge_dice.jpg)
+
