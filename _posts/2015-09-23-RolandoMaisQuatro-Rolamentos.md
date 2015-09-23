@@ -1,6 +1,6 @@
 ---
 title: Rolando +4 -  Episódio 6 - Introdução às Regras do Fate - Rolamentos, Ações e Resultados
-subheadline: Gerando Efeitos Especiais em Fate!
+subheadline: Introduzindo as regras e rolamentos do Fate!
 teaser: O Podcast dos Carrascos do Mestres
 layout: post
 date: 2015-09-23 20:20:00 -0300
