@@ -21,7 +21,7 @@
                   {% for link in site.data.podcast.podcast_links %}
                   <li>
                   <a href="{{ link.link }}">Assine o {{site.data.podcast.name}} em {{link.format}}</a> | 
-                  <a href="http://subscribeonandroid.com/{{ link.link | replace:'http://',''  }}">Subscribe on Android ({{link.format}})</a>
+                  <a href="http://subscribeonandroid.com/{{ link.link | replace:'https://',''   | replace:'http://',''  }}">Subscribe on Android ({{link.format}})</a>
                   </li>
             {% endfor %}
 
