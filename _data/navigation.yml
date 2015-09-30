@@ -2,6 +2,14 @@
   url: "/"
   side: left
 
+- title: Assine (MP3)
+  url: http://subscribeonandroid.com/feeds.feedburner.com/RolandoMaisQuatroRPG
+  side: right
+
+- title: Assine (OGG)
+  url: http://subscribeonandroid.com/feeds.feedburner.com/RolandoMaisQuatroRPG-OGG
+  side: right
+
 - title: "Pesquisa"
   url: "/search/"
   side: right
