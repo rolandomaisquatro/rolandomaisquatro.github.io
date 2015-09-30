@@ -30,11 +30,15 @@
                   {% if site.data.podcast %}
                   <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do {{site.data.podcast.name}}</a>
                   {% endif %}
-                  {% for link in site.data.podcast.podcast_links %}
+
+{% comment %}
+{% for link in site.data.podcast.podcast_links %}
                   <li>
-                  <a href="{{ link.link }}">Assine o {{site.data.podcast.name}} em {{link.format}}</a>
+                  <a href="http://subscribeonandroid.com/{{ link.link | replace:'http://',''  }}">Subscribe on Android ({{link.format}})</a>
                   </li>
-            {% endfor %}
-                  <li>
+
+{% endfor %}
+{% endcomment %}
+<li>
                   <a href="{{ site.url }}{{ post.url }}">Comente esse <em>post</em> no site do {{site.data.podcast.name}}!</a>
                   </li>
