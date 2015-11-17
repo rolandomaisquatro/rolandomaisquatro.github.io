@@ -1,8 +1,21 @@
 name: "Rolando +4"
 gpluspage: "https://plus.google.com/communities/107751639434132621741"
+copyright: (CC BY-NC-SA) 2015 - Rolando +4
+language: pt-br
 
 podcast_links:
      - format: MP3
        link: http://feeds.feedburner.com/RolandoMaisQuatroRPG
      - format: OGG
        link: http://feeds.feedburner.com/RolandoMaisQuatroRPG-OGG
+itunes-explicit: "NO"
+itunes-keywords: "RPG, Fate, Fate Básico, Jogador"
+itunes-podcast_image: /images/Rolando+4_logo_base2.png
+itunes-author: "Rolando +4"
+itunes-email: fabiocosta0305@gmail.com
+itunes-categories:
+      - RPG
+      - Fate
+      - Fate Core
+      - Fate Básico
+      

@@ -15,7 +15,8 @@ tags:
  - Pontos de Destino
 header: no
 maisquatro_comments: true 
-podcast_time: 78min
+podcast_time: 34min
+itunes-duration: 34:44
 hosts:
  - Alex Resende
  - Fábio Emilio Costa

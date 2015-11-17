@@ -1,6 +1,6 @@
 ---
 title: Rolando +4 -  Episódio 5 - Exemplo de Criação de Personagens usando La Vaporeta
-subheadline: Gerando Efeitos Especiais em Fate!
+subheadline: Três jovens heróis épicos para o cenário Steampunk en Latinoamerica
 teaser: O Podcast dos Carrascos do Mestres
 layout: post
 date: 2015-09-07 17:00:00 -0300
@@ -14,6 +14,7 @@ tags:
 header: no
 maisquatro_comments: true 
 podcast_time: 70min
+itunes-duration: 01:09:51
 hosts:
  - Alex Resende
  - Fábio Emilio Costa

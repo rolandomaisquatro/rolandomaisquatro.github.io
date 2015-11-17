@@ -14,6 +14,7 @@ tags:
 header: no
 maisquatro_comments: true 
 podcast_time: 61min
+itunes-duration: 01:01:20
 hosts:
  - Alex Resende
  - Fábio Emilio Costa
