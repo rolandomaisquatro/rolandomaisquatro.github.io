@@ -71,7 +71,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 {% for audio in post.audios %}
 {% for audio_info in audio %}
 {% if audio_info[0] == "OGG" %}
-<enclosure url="{{ audio_info[1] }}" type="audio/mpeg"/>
+<enclosure url="{{ audio_info[1] }}" type="audio/ogg"/>
 {% endif %}
 {%endfor%}
 {%endfor%}
