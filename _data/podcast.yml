@@ -3,7 +3,7 @@ gpluspage: "https://plus.google.com/communities/107751639434132621741"
 copyright: (CC BY-NC-SA) 2015 - Rolando +4
 language: pt-br
 
-podcast_links:
+feeds:
      - format: MP3
        link: http://feeds.feedburner.com/RolandoMaisQuatroRPG
      - format: OGG

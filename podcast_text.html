@@ -28,7 +28,7 @@
 {% if site.data.podcast %}
                   <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do Fate Masters</a>
                   {% endif %}
-                  {% for link in site.data.podcast.podcast_links %}
+                  {% for link in site.data.podcast.feeds %}
                   <li>
                   <a href="{{ link.link }}">Assine o {{site.data.podcast.name}} em {{link.format}}</a>
                   </li>
