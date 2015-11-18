@@ -5,7 +5,7 @@
 {% endfor %}
 </ul>
 
-  <li> <strong>Duração:</strong> {{post.podcast_time}}
+  <li> <strong>Duração:</strong> {{post.podcast_time | post.itunes.duration }}
 
 {% if post.events %}
 <li> <strong>Cronologia do Podcast:</strong>

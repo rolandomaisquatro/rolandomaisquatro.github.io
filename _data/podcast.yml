@@ -8,12 +8,13 @@ podcast_links:
        link: http://feeds.feedburner.com/RolandoMaisQuatroRPG
      - format: OGG
        link: http://feeds.feedburner.com/RolandoMaisQuatroRPG-OGG
-itunes-explicit: "NO"
-itunes-keywords: "RPG, Fate, Fate Básico, Jogador"
-itunes-podcast_image: /rolando-mais-quatro/images/Rolando+4_logo_base2.png
-itunes-author: "Rolando +4"
-itunes-email: fabiocosta0305@gmail.com
-itunes-categories:
+itunes:
+  explicit: "NO"
+  keywords: "RPG, Fate, Fate Básico, Jogador"
+  podcast_image: /rolando-mais-quatro/images/Rolando+4_logo_base2.png
+  author: "Rolando +4"
+  email: fabiocosta0305@gmail.com
+  categories:
       - RPG
       - Fate
       - Fate Core
