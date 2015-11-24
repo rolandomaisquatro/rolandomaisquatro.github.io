@@ -41,4 +41,5 @@
 {% endcomment %}
 <li>
                   <a href="{{ site.url }}{{ post.url }}">Comente esse <em>post</em> no site do {{site.data.podcast.name}}!</a>
-                  </li>
+{% if site.data.podcast.itunes.link %}<li><a href="{{ site.data.podcast.itunes.link }}">Assine no iTunes</a></li>{% endif %}
+</li>

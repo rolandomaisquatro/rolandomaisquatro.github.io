@@ -2,14 +2,16 @@
   url: "/"
   side: left
 
-- title: Assine (MP3)
-  url: http://subscribeonandroid.com/feeds.feedburner.com/RolandoMaisQuatroRPG
+- title: Assine
   side: right
-
-- title: Assine (OGG)
-  url: http://subscribeonandroid.com/feeds.feedburner.com/RolandoMaisQuatroRPG-OGG
-  side: right
-
+  dropdown:  
+    - title: MP3
+      url: http://subscribeonandroid.com/feeds.feedburner.com/RolandoMaisQuatroRPG
+    - title: OGG
+      url: http://subscribeonandroid.com/feeds.feedburner.com/RolandoMaisQuatroRPG-OGG
+    - title: iTunes
+      url: https://itunes.apple.com/br/podcast/rolando-+4/id1061465084
+        
 - title: "Pesquisa"
   url: "/search/"
   side: right

@@ -9,6 +9,7 @@ feeds:
      - format: OGG
        link: http://feeds.feedburner.com/RolandoMaisQuatroRPG-OGG
 itunes:
+  link: https://itunes.apple.com/br/podcast/rolando-+4/id1061465084
   explicit: "NO"
   keywords: "RPG, Fate, Fate Básico, Jogador"
   podcast_image: /images/Rolando+4_logo_base2.png
