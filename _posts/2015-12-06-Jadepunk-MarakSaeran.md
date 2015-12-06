@@ -2,7 +2,7 @@
 teaser: O Podcast dos Carrascos dos Mestres
 subheadline: A Ficha do Caçador de Recompensas de Aerum
 title: Personagem Pronto - Marak Saeran
-date: 2015-12-06 09:00:00 -0200
+date: 2015-12-06 19:30:00 -0200
 layout: post
 categories:
   - personagens

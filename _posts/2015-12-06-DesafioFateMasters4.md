@@ -2,7 +2,7 @@
 Teaser: O Podcast dos Carrascos dos Mestres
 title: Exemplo de Talismã -  O Trenó do Papai Noel
 subheadline: OO Trenó que leva você aonde quiser, instantaneamente, em Fate
-date: 2015-12-06 09:00:00 -0200
+date: 2015-12-06 19:30:00 -0200
 layout: post
 categories:
  - RPG
