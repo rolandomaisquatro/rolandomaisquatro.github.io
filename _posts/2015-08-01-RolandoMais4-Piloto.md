@@ -9,6 +9,7 @@ tags:
  - Fate
  - Fate-Core
  - Rolando-Mais-Quatro
+ - rolando-mais-quatro-podcast
  - Podcast
 header: no
 maisquatro_comments: true 
