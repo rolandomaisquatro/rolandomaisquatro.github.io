@@ -26,7 +26,7 @@ related_links:
  - text: Fichas dos Personagens criados - Finais
    link: https://archive.org/download/Rolando4Ep5/FichasLaVaporeta-final.pdf
  - text: Sumário de Criação de Personagens do _La Vaporeta_
-   link: /rolando-mais-quatro/exemplos/CriacaoPersonagensLaVaporeta/
+   link: /exemplos/CriacaoPersonagensLaVaporeta/
  - text: _La Vaporeta_
    link: https://docs.google.com/document/d/102fgUuMCQZEPr1ZmSZS20CnV6x75Ors6WkAYdGWnUbg/edit?usp=sharing
  - text: _Masters of Umdaar_

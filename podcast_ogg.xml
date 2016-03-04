@@ -15,7 +15,11 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 {% for category in site.data.podcast.itunes.categories | limit: 5 %}
 <itunes:category text="{{ category }}"/>
 {% endfor %}
+{% if site.data.podcast.itunes.explicit %}
 <itunes:explicit>{{ site.data.podcast.itunes.explicit }}</itunes:explicit>
+{% else %}
+<itunes:explicit>false</itunes:explicit>
+{% endif %}
 <itunes:keywords>{{ site.data.podcast.itunes.keywords }}</itunes:keywords>
 <itunes:summary>{{ site.data.podcast.itunes.slogan | site.description }}</itunes:summary>
 <itunes:subtitle>{{ site.data.podcast.itunes.subtitle | site.description }}</itunes:subtitle>
@@ -34,7 +38,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 </image>
 <link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/podcast.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.tags.Podcast %}
+		{% for post in site.categories.rolando-mais-quatro %}
 			<item>
 <author>{{ site.data.podcast.itunes.author | site.name }}</author>
 				<title>{{ post.title | xml_escape }}</title>                                
