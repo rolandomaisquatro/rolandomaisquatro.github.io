@@ -13,6 +13,7 @@ tags:
  - Podcast
  - Introdução às Regras
  - Rolamento
+ - rolando-mais-quatro-podcast
  - Quatro Ações
 header: no
 maisquatro_comments: true 
@@ -50,7 +51,7 @@ related_links:
    link: https://itunes.apple.com/br/app/fate-companion/id871642387?mt=8
  - text: Dicenomicon (Rolador de Dados para iOS)
    link: https://itunes.apple.com/br/app/the-dicenomicon/id288286599?mt=8
- - text: Dicenomicon (Rolador de Dados para iOS)
+ - text: PIP (Rolador de Dados para iOS)
    link: https://itunes.apple.com/br/app/pip/id298751953?mt=8
 audios:
  - OGG: https://archive.org/download/Rolando4Ep6/Rolando%2b4-Ep6.ogg

@@ -10,6 +10,7 @@ tags:
  - Fate
  - Fate-Core
  - Rolando-Mais-Quatro
+ - rolando-mais-quatro-podcast
  - Podcast
  - Especial
  - Fim de Ano

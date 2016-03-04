@@ -10,6 +10,7 @@ tags:
  - Fate
  - Fate-Core
  - Rolando-Mais-Quatro
+ - rolando-mais-quatro-podcast
  - Podcast
 header: no
 maisquatro_comments: true 
@@ -34,7 +35,7 @@ related_links:
  - text: Part-Time Gods
    link: http://www.drivethrurpg.com/product/152385/PartTime-Gods-of-Fate
  - text: Ficha do Personagem do Fate Core
-   link: /assets/Fate_Basico_Planilha.pdf
+   link: /images/Fate_Basico_Planilha.pdf
  - text: Kannin Dragon espancando Jiraya no estilo - um uso *positivo* de uma Dificuldade
    link: https://www.youtube.com/watch?v=W1q5VAf048Q
  - text: Guia do Rob para criação de Bons Aspectos
