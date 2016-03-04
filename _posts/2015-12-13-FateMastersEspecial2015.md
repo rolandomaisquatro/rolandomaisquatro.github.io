@@ -24,7 +24,7 @@ hosts:
  - Fábio Emilio Costa
  - Jean da Silva
 audios:
-  - OGG: https://archive.org/download/RolandoMais4Especial2015/RolandoMaisquatro-Especial-Final2015.mp3
+  - OGG: https://archive.org/download/RolandoMais4Especial2015/RolandoMaisquatro-Especial-Final2015.ogg
   - MP3: https://archive.org/download/RolandoMais4Especial2015/RolandoMaisquatro-Especial-Final2015.mp3
 iaplayer: RolandoMais4Especial2015
 comments: true
