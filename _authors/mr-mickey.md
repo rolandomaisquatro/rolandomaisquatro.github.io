@@ -3,14 +3,15 @@ layout: authors
 show_meta: false
 title: Fábio Costa - O _Mr. Mickey_
 contacts:
-  email: fabiocosta0305@gmail.com
-  twitter: hufflepuffbr
-  facebook: fabiocosta0305
-  googleplus: +FabioEmilioCosta
-  linkedin: +FabioEmilioCosta
-  instagram: +FabioEmilioCosta
-  youtube: +FabioEmilioCosta
-avatar: /images/meuAvatar2015-orig.png
+  email:          fabiocosta0305@gmail.com
+  twitter:        hufflepuffbr
+  facebook:       fabiocosta0305
+  googleplus:     +FabioEmilioCosta
+  linkedin:       fabiocosta0305
+  instagram:      hufflepuffbr
+  telegram:       hufflepuffbr 
+  youtube:        fabiocosta0305
+  avatar:         /images/meuAvatar2015-orig.png
 ---
 
 Fábio Emilio Costa, o _Mr. Mickey_, nasceu em 3 de maio de 1978, e mora em São Bernardo do Campo/SP. 
