@@ -3,7 +3,7 @@ title: Rolando +4 -  Episódio 13 - Tópicos Avançados - Criando Personagens In
 subheadline: Criando Personagens Interessantes no Fate
 teaser: O Podcast dos Carrascos do Mestres
 layout: post
-date: 2016-03-07 15:00:00 -0300
+date: 2016-03-07 17:20:00 -0300
 categories:
   - Rolando-Mais-Quatro
 tags:
