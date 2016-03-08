@@ -8,7 +8,7 @@ contacts:
   googleplus:     +JeandaSilvajexsnake
   pinterest:      jexsnake
   linkedin:       jexsilvaf
-  avatar:         /images/JeanAvatar.png
+  avatar:         /images/JeanAvatar.jpg
 ---
         
 Jean nasceu na terra das tradições milenares dos gaúchos em Porto Alegre, Rio Grande do Sul. Desde os 13 anos já se enclausurava em sua torre mística para ler antigos tomos de Dungeons & Dragons e GURPS, e começou a jogar RPG mestrando, pois seus amigos o emcubiam com a tarefa de ler todos os livros, o que Jean sempre adorou.
