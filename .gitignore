@@ -2,7 +2,6 @@
 _gh_pages
 _site
 .ruby-version
-nohup.out
 
 # Numerous always-ignore extensions
 *.diff
