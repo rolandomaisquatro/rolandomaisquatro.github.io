@@ -11,6 +11,7 @@ contacts:
   instagram:      hufflepuffbr
   telegram:       hufflepuffbr 
   youtube:        fabiocosta0305
+  pinterest:      hufflepuffbr
   avatar:         /images/meuAvatar2015-orig.png
 ---
 

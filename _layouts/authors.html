@@ -4,39 +4,38 @@ layout: default
 
 <div class="page">
   <h1 class="page-title">{{ page.title | markdownify | remove: '<p>' | remove: '</p>'}}</h1>
-{% if page.avatar %}
-<span class="authors"><img src="{{page.avatar}}" alt="Avatar de {{page.title}}"/></span>
+{% if page.contacts.avatar %}
+<span class="authors"><img src="{{page.contacts.avatar}}" alt="Avatar de {{page.title}}"/></span>
 {% endif %}
 {{ content }}
 {% if page.contacts %}
 <div class="social-networks">
 {% if page.contacts.email %}
-<a href="mailto:{{ page.contacts.email }}">&#xe224;
-</a>
+<a href="mailto:{{ page.contacts.email }}"><i class="fa fa-envelope fa-fw"></i></a>
 {% endif %}
 {% if page.contacts.facebook %}
-<a href="http://facebook.com/{{ page.contacts.facebook }}">&#xe227;
-</a>
+<a href="http://facebook.com/{{ page.contacts.facebook }}"><i class="fa fa-facebook-square fa-fw"></i></a>
 {% endif %}
 {% if page.contacts.twitter %}
-<a href="http://twitter.com/{{ page.contacts.twitter }}">&#xe286;
-</a>
+<a href="http://twitter.com/{{ page.contacts.twitter }}"><i class="fa fa-twitter-square fa-fw"></i></a>
 {% endif %}
 {% if page.contacts.googleplus %}
-<a href="http://plus.google.com/{{ page.contacts.googleplus }}">&#xe239;
-</a>
+<a href="http://plus.google.com/{{ page.contacts.googleplus }}"><i class="fa fa-google-plus-square fa-fw"></i></a>
 {% endif %}
 {% if page.contacts.linkedin %}
-<a href="http://linkedin.com/{{ page.contacts.linkedin }}">circlelinkedin
-</a>
+<a href="http://linkedin.com/in/{{ page.contacts.linkedin }}"><i class="fa fa-linkedin-square fa-fw"></i></a>
 {% endif %}
 {% if page.contacts.youtube %}
-<a href="http://youtube.com/{{ page.contacts.linkedin }}">circleyoutube
-</a>
+<a href="http://youtube.com/user/{{ page.contacts.youtube }}"><i class="fa fa-youtube-square fa-fw"></i></a>
 {% endif %}
 {% if page.contacts.instagram %}
-<a href="http://instagram.com/{{ page.contacts.instagram }}">circleinstagram
-</a>
+<a href="http://instagram.com/{{ page.contacts.instagram }}"><i class="fa fa-instagram fa-fw"></i></a>
+{% endif %}
+{% if page.contacts.telegram %}
+<a href="http://telegram.me/{{ page.contacts.telegram }}"><i class="fa fa-paper-plane fa-fw"></i></a>
+{% endif %}
+{% if page.contacts.pinterest %}
+<a href="http://pinterest.com/{{ page.contacts.pinterest }}"><i class="fa fa-pinterest fa-fw"></i></a>
 {% endif %}
 </div>
 {% endif %}
