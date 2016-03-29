@@ -3,7 +3,7 @@ title: Rolando +4 -  Episódio 15 - Personagem vs Jogador
 subheadline: Entendendo os problemas que o Jogador provoca ao não ser o personagem
 teaser: O Podcast dos Carrascos do Mestres
 layout: post
-date: 2016-03-29 15:30:00 -0300
+date: 2016-03-29 15:31:00 -0300
 categories:
   - Rolando-Mais-Quatro
 tags:
