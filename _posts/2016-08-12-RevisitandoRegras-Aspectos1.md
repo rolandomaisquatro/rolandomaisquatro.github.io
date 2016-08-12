@@ -3,7 +3,7 @@ title: "Rolando +4 -  Episódio 18 - Revisitando as Regras: Aspectos, parte 1 (A
 subheadline: Abrindo uma nova série do podcast relativa a uma nova compreensão das regras
 teaser: O Podcast dos Carrascos do Mestres
 layout: post
-date: 2016-05-18 09:00:00 -0300
+date: 2016-08-12 12:00:00 -0300
 categories:
   - Rolando-Mais-Quatro
 tags:
