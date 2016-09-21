@@ -1,0 +1,169 @@
+1457438112670	addons.manager	WARN	Exception calling callback: TypeError: a is null (chrome://toomanytabs/content/hacks.js:32:1) JS Stack trace: Visibo.TMT.initializePatch/<@hacks.js:32:1 < safeCall@AddonManager.jsm:173:5 < makeSafe/<@AddonManager.jsm:189:25 < Handler.prototype.process@Promise-backend.js:934:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:813:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:747:1
+Vector smash protection is enabled.
+Vector smash protection is enabled.
+qt.network.ssl: QSslSocket: cannot resolve SSLv2_client_method
+qt.network.ssl: QSslSocket: cannot resolve SSLv2_server_method
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+QLayout: Attempting to add QLayout "" to QPasswordEdit "", which already has a layout
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Vector smash protection is enabled.
+QLayout: Attempting to add QLayout "" to QPasswordEdit "", which already has a layout
+okular(9443)/kdeui (kdelibs) KXMLGUIClient::~KXMLGUIClient: 0x9b87720 deleted without having been removed from the factory first. This will leak standalone popupmenus and could lead to crashes. 
+
+(firefox:7199): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+Performance warning: Async animation disabled because frame size (1831, 717) is bigger than the viewport (1745, 986) or the visual rectangle (1831, 717) is larger than the max allowable value (17895697) [div]
+console.warn: Asynchronous operation was aborted as selection changed.
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+Performance warning: Async animation disabled because frame size (2774, 745) is bigger than the viewport (1745, 986) or the visual rectangle (2774, 745) is larger than the max allowable value (17895697) [div]
+Performance warning: Async animation disabled because frame size (2774, 745) is bigger than the viewport (1745, 986) or the visual rectangle (2774, 745) is larger than the max allowable value (17895697) [div]
+Vector smash protection is enabled.
+[Parent 7199] WARNING: waitpid failed pid:483 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+1457448642360	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1457448642961	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Unix error 2 during operation DirectoryIterator.prototype.next on file /home/19219948869/.mozilla/firefox/9zaysvrd.default/features (Arquivo ou diretório não encontrado) ((unknown module)) No traceback available
+console.warn: Asynchronous operation was aborted as selection changed.
+Vector smash protection is enabled.
+1457457884248	addons.manager	WARN	Exception calling callback: TypeError: a is null (chrome://toomanytabs/content/hacks.js:32:1) JS Stack trace: Visibo.TMT.initializePatch/<@hacks.js:32:1 < safeCall@AddonManager.jsm:179:5 < makeSafe/<@AddonManager.jsm:195:25 < Handler.prototype.process@Promise-backend.js:933:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:812:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:746:1
+Vector smash protection is enabled.
+Vector smash protection is enabled.
+Vector smash protection is enabled.
+1457522627097	addons.manager	WARN	Exception calling callback: TypeError: a is null (chrome://toomanytabs/content/hacks.js:32:1) JS Stack trace: Visibo.TMT.initializePatch/<@hacks.js:32:1 < safeCall@AddonManager.jsm:179:5 < makeSafe/<@AddonManager.jsm:195:25 < Handler.prototype.process@Promise-backend.js:933:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:812:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:746:1 < [266]</i.windowPopup@web-main-bundle.js:15:3309 < [266]</i.handleShare@web-main-bundle.js:15:4802 < d@web-main-bundle.js:4:20173 < g@web-main-bundle.js:2:13883 < h@web-main-bundle.js:2:14096 < [40]</l@web-main-bundle.js:2:10291 < [40]</n@web-main-bundle.js:2:10419 < [144]</d@web-main-bundle.js:6:15773 < [40]</p.processEventQueue@web-main-bundle.js:2:11539 < d@web-main-bundle.js:4:20435 < [86]</f.handleTopLevel@web-main-bundle.js:4:20558 < g@web-main-bundle.js:4:21034 < f@web-main-bundle.js:4:20850 < [134]</e.perform@web-main-bundle.js:6:12679 < [77]</m.batchedUpdates@web-main-bundle.js:4:6993 < f@web-main-bundle.js:5:23328 < [87]</r.dispatchEvent@web-main-bundle.js:4:22099
+Vector smash protection is enabled.
+Vector smash protection is enabled.
+Vector smash protection is enabled.
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+console.error: 
+  Message: Error: Permission denied to access property "nodeName"
+  Stack:
+    @javascript:self.on("context", function (node) {    return node.nodeName != "A";});self.on("click", function(node, data) {    self.postMessage({ "selection": window.getSelection().toString() });});:1:41
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onChromeEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:91:16
+
+console.error: pushbullet: 
+  Message: TypeError: addonInfo is undefined
+  Stack:
+    isItemVisible@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/context-menu.js:325:9
+setVisibility@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/context-menu.js:775:21
+setVisibility@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/context-menu.js:780:19
+updateItemVisibilities@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/context-menu.js:1006:7
+
+console.error: 
+  Message: Error: Permission denied to access property "navigator"
+  Stack:
+    modifyShortcutKey@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:1
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:5374
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onChromeEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:91:16
+
+console.error: 
+  Message: Error: Permission denied to access property "navigator"
+  Stack:
+    modifyShortcutKey@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:1
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:5374
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onChromeEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:91:16
+
+console.error: 
+  Message: Error: Permission denied to access property "navigator"
+  Stack:
+    modifyShortcutKey@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:1
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:5374
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onChromeEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:91:16
+
+console.error: 
+  Message: Error: Permission denied to access property "navigator"
+  Stack:
+    modifyShortcutKey@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:1
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:5374
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onChromeEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:91:16
+
+Vector smash protection is enabled.
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+console.error: 
+  Message: Error: Permission denied to access property "navigator"
+  Stack:
+    modifyShortcutKey@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:1
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:5374
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onChromeEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:91:16
+
+console.error: 
+  Message: Error: Permission denied to access property "navigator"
+  Stack:
+    modifyShortcutKey@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:1
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:5374
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onChromeEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:91:16
+
+
+(process:12053): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+console.error: 
+  Message: Error: Permission denied to access property "navigator"
+  Stack:
+    modifyShortcutKey@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:1
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-tpts1z1uvun2fa-at-jetpack/data/firefoxJS/firefoxController.js:1:5374
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onChromeEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:91:16
+
+[Parent 7199] WARNING: waitpid failed pid:12053 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+Vector smash protection is enabled.
+1457527403643	addons.manager	WARN	Exception calling callback: TypeError: a is null (chrome://toomanytabs/content/hacks.js:32:1) JS Stack trace: Visibo.TMT.initializePatch/<@hacks.js:32:1 < safeCall@AddonManager.jsm:179:5 < makeSafe/<@AddonManager.jsm:195:25 < Handler.prototype.process@Promise-backend.js:933:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:812:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:746:1 < PopShow3@go-board-game-and-hikaru-no-go.html:5777:28
+Performance warning: Async animation disabled because frame size (2774, 745) is bigger than the viewport (1745, 986) or the visual rectangle (2774, 745) is larger than the max allowable value (17895697) [div]
+
+(process:16359): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+[Parent 7199] WARNING: waitpid failed pid:16359 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+
+(process:17838): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn1.animationsActor23
+[Parent 7199] WARNING: waitpid failed pid:17838 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+
+(process:18300): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+[Parent 7199] WARNING: waitpid failed pid:18300 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+
+(process:21336): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+Vector smash protection is enabled.
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+[Parent 7199] WARNING: waitpid failed pid:21336 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+Vector smash protection is enabled.
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+QXcbWindow: Unhandled client message: "_GTK_LOAD_ICONTHEMES"
+
+(process:28362): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+[Parent 7199] WARNING: waitpid failed pid:28362 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+
+(process:31626): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+Vector smash protection is enabled.
+[Parent 7199] WARNING: waitpid failed pid:31626 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+
+(process:540): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+[Parent 7199] WARNING: waitpid failed pid:540 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+
+(process:1277): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+okular(1650)/kdeui (kdelibs) KXMLGUIClient::~KXMLGUIClient: 0x944c2c0 deleted without having been removed from the factory first. This will leak standalone popupmenus and could lead to crashes. 
+[Parent 7199] WARNING: waitpid failed pid:1277 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+1457535041717	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1457535043239	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Unix error 2 during operation DirectoryIterator.prototype.next on file /home/19219948869/.mozilla/firefox/9zaysvrd.default/features (Arquivo ou diretório não encontrado) ((unknown module)) No traceback available
+
+(process:4132): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+[Parent 7199] WARNING: waitpid failed pid:4132 errno:10: file /builds/slave/rel-m-rel-lx_bld-0000000000000/build/ipc/chromium/src/base/process_util_posix.cc, line 267
+QXcbWindow: Unhandled client message: "_GTK_LOAD_ICONTHEMES"
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.

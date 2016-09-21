@@ -1,9 +1,10 @@
 # Dependencies
 #markdown:         redcarpet
-#highlighter:      pygments
+highlighter:      pygments
 
 # Permalinks
 permalink:        /:categories/:title/
+gems: [jekyll-paginate]
 #relative_permalinks: true
 
 # Setup
