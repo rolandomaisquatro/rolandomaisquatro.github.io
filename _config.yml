@@ -29,3 +29,6 @@ github:
 collections:
   authors:
     output: true
+
+fb_moderators:
+  - fabiocosta0305
